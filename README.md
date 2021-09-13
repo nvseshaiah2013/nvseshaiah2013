@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ## :chart: My Github Overview
 
-<img src="https://github-profile-trophy.vercel.app/?username=nvseshaiah2013" alt="nvseshaiah2013" />
+<img src="https://github-profile-trophy.vercel.app/?username=nvseshaiah2013&count_private=true&margin-w=15&margin-h=15" alt="nvseshaiah2013" />
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=nvseshaiah2013&show_icons=true&locale=en" alt="nvseshaiah2013" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nvseshaiah2013&show_icons=true&locale=en" alt="nvseshaiah2013" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nvseshaiah2013&show_icons=true&locale=en&hide_border=true" alt="nvseshaiah2013" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nvseshaiah2013&show_icons=true&locale=en&hide_border=true&layout=compact" alt="nvseshaiah2013" height="195"/>
 </p>
 
 ## :rocket: Connect With Me
